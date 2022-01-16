@@ -52,7 +52,14 @@ Donec quis congue arcu, et vulputate est. Aenean accumsan erat vel elit commodo 
     <h2 id="interco">HTML Intermediate Course</h2>
       <p>Reopen index.html. Now we will move on to dead links. A dead link is made the same way as a hyperlink (&lt;a&gt;), except for the fact that in a dead link the href is either blank or has a # in it. Now the other things we will cover in this course are the <code>style</code>, <code>script</code>, and <code>link</code> tags. The <code>link</code> tag is used for external <abbr title="Cascading Style Sheets">CSS</abbr>, <code>style</code> contains internal <abbr title="Cascading Style Sheets">CSS</abbr>, and <code>script</code> is used to show/refer to JavaScript code. The <code>accesskey</code> attribute is used for giving a hyperlink focus. The value of the attribute will consist of a single character, and in the page, when that key is clicked, it will give the hyperlink focus. The <code>meta</code> tag stores - well, metadata. It has multiple attributes, but the most common one is <code>charset</code>. It defines the character encoding specified for the HTML document. <strong>This is the end of the HTML Intermediate Course.</strong></p>
       <h2 id="masterco">HTML Master Course</h2>
-      <p>Open your html file. Today we will turn it into a website. Delete everything in your <code>&lt;body&gt;</code> tag and type in a set of <code>&lt;header&gt;</code> tags. Inside the header tags, type up <code>&lt;h1&gt;___&lt;/h1&gt;</code>. Then replace the underscores ___ with whatever title you want. Next, after the header, type in <code>&lt;nav&gt;&lt;/nav&gt;</code>. In the nav tags, type in <code>&lt;a href=""&gt;</code>. This is as much as I'm giving you. Customize the page however you want, and maybe add MORE pages! <a href="#navbar">Back to top</a> <strong>This is the end of the HTML courses.</strong></p>
+      <p>Open your html file. Today we will turn it into a website. Delete everything in your <code>&lt;body&gt;</code> tag and type in a set of <code>&lt;header&gt;</code> tags. Inside the header tags, type up <code>&lt;h1&gt;___&lt;/h1&gt;</code>. Then replace the underscores ___ with whatever title you want. Next, after the header, type in <code>&lt;nav&gt;&lt;/nav&gt;</code>. In the nav tags, type in <code>&lt;a href=""&gt;</code>. This is as much as I'm giving you. Customize the page however you want, and maybe add MORE pages! Oh, by the way, here's how to code a list (numbered and bulleted).
+        <pre>
+          &lt;ul&gt;
+            &lt;li&gt;___&lt;/li&gt;
+            *repeat as many times as wanted, replace ___ with text*
+          &lt;/ul&gt;
+          *for numbered list, repeat with ol instead of ul*
+        </pre><br><a href="#navbar">Back to top</a> <strong>This is the end of the HTML courses.</strong></p>
     <footer>
 
     </footer>
