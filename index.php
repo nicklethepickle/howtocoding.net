@@ -32,53 +32,6 @@
         <li>Basic</li>
       </ul>
       <p>So, in this site we will learn basic HTML, CSS &amp; JavaScript. These three languages can create websites. In fact, this whole <em>website</em> was coded with HTML. Sometimes, there might be an example. HTML is short for Hypertext Markup Language, &amp; CSS is Cascading Style Sheets.</p></article>
-      <div id="form">
-      <form action="processor.php" method="post">
-        <fieldset>
-          <legend>Here's a form to tell us how experienced you are at HTML, CSS &amp; JavaScript.</legend>
-            <form action="processor.php" method="post" name="formHtml">
-            <input id="new" type="radio" value="new" name="htmlrating" checked>
-        <label for="new">New student</label><br>
-        <input id="stl" type="radio" value="stl" name="htmlrating">
-        <label for="stl">Just started learning, like, last week</label><br>
-        <input id="inter" type="radio" value="inter" name="htmlrating">
-        <label for="inter">Intermediate learning</label><br>
-        <input id="adv" type="radio" value="adv" name="htmlrating">
-        <label for="adv">Advanced HTML</label><br>
-        <input id="master" type="radio" value="master" name="htmlrating">
-        <label for="master">HTML Master</label><br>
-        <input id="king" type="radio" value="king" name="htmlrating">
-        <label for="king">King of HTML</label></form>
-        <hr /><form action="processor.php" method="post" name="formCss">
-        <input id="newc" type="radio" value="new" name="cssrating" checked />
-        <label for="newc">New at CSS</label><br>
-        <input id="stlc" type="radio" value="stlc" name="cssrating">
-        <label for="stlc">A week's worth of CSS knowledge</label><br>
-        <input id="interc" type="radio" value="interc" name="cssrating">
-        <label for="interc">Indermediate CSS knowledge</label><br>
-        <input id="advc" type="radio" value="advc" name="cssrating">
-        <label for="advc">Advanced CSS knowledge</label><br>
-        <input id="masterc" type="radio" value="masterc" name="cssrating">
-        <label for="masterc">CSS Master</label><br>
-        <input id="kingc" type="radio" value="kingc" name="cssrating">
-        <label for="kingc">King of CSS</label></form>
-        <hr />
-        <form action="processor.php" method="post" name="jsrating">
-          <input id="newj" type="radio" value="newj" name="jsrating" checked />
-          <label for="newj">Noob programmer</label><br>
-          <input id="stlj" type="radio" value="stlj" name="jsrating" />
-          <label for="stlj">New-ish programmer</label><br>
-          <input id="interj" type="radio" value="interj" name="jsrating" />
-          <label for="interj">Intermediate programmer</label><br>
-          <input id="advj" type="radio" value="advj" name="jsrating" />
-          <label for="advj">Advanced programmer</label><br>
-          <input id="masterj" type="radio" value="masterj" name="jsrating" />
-          <label for="masterj">Master programmer</label><br>
-          <input id="kingj" type="radio" value="kingj" name="jsrating" />
-          <label for="kingj">DA KING OF PROGRAMMING</label>
-        </form>
-        </fieldset>
-      </form></div>
       <a href="#navbar">Go to navbar for HTML lessons</a>
       <h5>FYI: There is no course for HTML/CSS/JS kings, so I recommend showing this to your friends and/or family.</h5>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer faucibus nibh quis feugiat vulputate. Nam interdum pharetra nunc, ut hendrerit erat molestie sit amet. Proin malesuada rutrum suscipit. Cras sed augue at leo porttitor vestibulum quis in magna. Suspendisse pharetra arcu ac ante commodo tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nisl tellus, congue eu dapibus vitae, eleifend ut odio. Curabitur commodo orci quis sem condimentum tincidunt. Suspendisse vel quam quis lorem scelerisque aliquet. Integer dapibus, purus quis condimentum imperdiet, ligula erat ultricies metus, at iaculis justo metus nec ligula. Fusce justo quam, tempor et interdum ac, sodales et odio. Sed condimentum hendrerit pellentesque. Nam gravida, velit ultricies tempor pellentesque, nibh purus eleifend enim, ac lacinia augue ex vel urna. Sed sit amet convallis ipsum. Sed congue velit eu nunc viverra, ut iaculis lorem finibus. Etiam lobortis quam sit amet dignissim mollis.
