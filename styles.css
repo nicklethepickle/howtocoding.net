@@ -1,0 +1,50 @@
+#navbar {
+  background-color: gray;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding-left: 10px;
+  grid-area: nav;
+}
+.button {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: Gill Sans, sans-serif;
+}
+a:hover {
+  text-decoration: underline;
+}
+      .example {
+        background-color: #2e2e2e;
+        color: #ffffff;
+      }
+      .examlink {
+        text-decoration: underline;
+        color: #0000ff;
+      }
+      body {
+        font-family: Gill Sans, sans-serif;
+      }
+      code {
+        background-color: #1f1f1f;
+        color: antiquewhite;
+        font-family: Andale Mono, monospace;
+      }
+      .button {
+        background-color: lightblue;
+        border: solid blue;
+        border-radius: 25px;
+        color: green;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      .button:hover {
+        background-color: skyblue;
+      }
